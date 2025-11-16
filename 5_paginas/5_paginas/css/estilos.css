@@ -1,0 +1,35 @@
+body {
+    background-image: url(../images/fondo.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: top center;
+    text-align: center;
+
+    font-family: "Elms Sans", sans-serif;
+}
+
+h1 {
+    background-color: black;
+    color: cornsilk;
+    border-left-width: 10px;
+    border-left-style: solid;
+    border-left-color: white;
+}
+
+img {
+    border: 6px rgb(23, 23, 69) solid;
+    border-radius: 20px;
+    box-shadow: 4px 6px 2px black;
+    height: 400px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    display: inline;
+    border: 2px rgb(78, 32, 13) solid;
+    border-radius: 4px;
+}
+
